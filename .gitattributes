@@ -1,0 +1,2 @@
+# ignore html for language statistics
+*.html linguist-vendored
